@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-// Product يمثل أبسط وحدة بيانات في المتجر
 type Product struct {
 	ID    int
 	Name  string
